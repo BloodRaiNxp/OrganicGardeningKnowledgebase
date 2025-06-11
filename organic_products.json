@@ -1,0 +1,378 @@
+{
+  "fertilizers": [
+    {
+      "name": "Wiggle Worm Soil Builder Worm Castings",
+      "small_size": {
+        "weight": "4.5 lbs",
+        "price": 9.98,
+        "url": "https://www.amazon.com/Wiggle-Worm-Builder-Castings-Fertilizer/dp/B000BQYHMW"
+      },
+      "larger_size": {
+        "weight": "15 lbs",
+        "price": 20,
+        "url": "https://www.walmart.com/ip/Wiggle-Worm-Soil-Builder-Earthworm-Castings-15-lb/171086104"
+      },
+      "npk": "1-0-0",
+      "use_case": "Vegetables, flowers, seed starting",
+      "application": "Mix 1–2 cups per square foot into soil or sprinkle around plants monthly. For seedlings, use 1 tbsp per pot.",
+      "notes": "OMRI-listed, microbe-rich for soil health"
+    },
+    {
+      "name": "Dr. Earth Organic 5 Tomato, Vegetable & Herb Fertilizer",
+      "small_size": {
+        "weight": "4 lbs",
+        "price": 10.98,
+        "url": "https://www.walmart.com/ip/Dr-Earth-Organic-Natural-Home-Grown-Tomato-and-Vegetable-Food-4-6-3-Fertilizer-4-lb/39149295"
+      },
+      "larger_size": {
+        "weight": "12 lbs",
+        "price": 20,
+        "url": "https://www.amazon.com/Dr-Earth-Vegetable-Fertilizer-Poly/dp/B002MZ2UPM"
+      },
+      "npk": "4-6-3",
+      "use_case": "Tomatoes, vegetables, herbs",
+      "application": "For young plants (<6 months), mix 1 tbsp per gallon water, apply biweekly. For mature plants, use 1/2 cup per plant every 2 months.",
+      "notes": "OMRI-listed, fish bone meal-based. Half-dose for young plants prevents burn"
+    },
+    {
+      "name": "Espoma Organic Plant-Tone Plant Food",
+      "small_size": {
+        "weight": "4 lbs",
+        "price": 11.69,
+        "url": "https://www.walmart.com/ip/Espoma-Plant-tone-Organic-Plant-Food-4-lb/171086106"
+      },
+      "larger_size": {
+        "weight": "8 lbs",
+        "price": 15,
+        "url": "https://www.walmart.com/ip/Espoma-Plant-tone-Organic-Plant-Food-8-lb/171086107"
+      },
+      "npk": "5-3-3",
+      "use_case": "Flowers, vegetables, shrubs",
+      "application": "Sprinkle 1/4 cup per plant monthly, or mix into soil at planting (1 lb per 25 sq ft). Water thoroughly after application.",
+      "notes": "OMRI-listed, poultry manure-based"
+    },
+    {
+      "name": "Jobe’s Organics All-Purpose Granular Fertilizer",
+      "small_size": {
+        "weight": "4 lbs",
+        "price": 12.98,
+        "url": "https://www.amazon.com/Jobe-Organics-09524-Purpose-Granular/dp/B003K7OIAQ"
+      },
+      "larger_size": {
+        "weight": "16 lbs",
+        "price": 30,
+        "url": "https://www.homedepot.com/p/Jobe-s-Organics-16-lb-Organic-All-Purpose-Granular-Fertilizer-09521/202268614"
+      },
+      "npk": "4-4-4",
+      "use_case": "All plants",
+      "application": "Mix 1–2 tbsp per plant every 4–6 weeks during growing season. For new plants, use 1 tsp to avoid over-fertilization.",
+      "notes": "OMRI-listed, feather meal-based. Half-dose for young plants ensures safety"
+    },
+    {
+      "name": "Neptune’s Harvest Fish & Seaweed Fertilizer (Liquid)",
+      "small_size": {
+        "weight": "18 oz",
+        "price": 14.99,
+        "url": "https://www.amazon.com/Neptunes-Harvest-Fertilizer-Gallon-2-3-1/dp/B000OWBUSA"
+      },
+      "larger_size": {
+        "weight": "36 oz",
+        "price": 28,
+        "url": "https://www.groworganic.com/products/neptunes-harvest-fish-seaweed-blend-fertilizer-36-oz"
+      },
+      "npk": "2-3-1",
+      "use_case": "Vegetables, containers, flowers",
+      "application": "Mix 1 oz per gallon water, apply as foliar spray or soil drench every 2 weeks. Use 1/2 oz for young plants.",
+      "notes": "OMRI-listed, fish emulsion-based. Apply in evening to reduce odor"
+    },
+    {
+      "name": "Milorganite Slow-Release Nitrogen Fertilizer",
+      "small_size": {
+        "weight": "5 lbs",
+        "price": 15,
+        "url": "https://www.homedepot.com/p/Milorganite-5-lb-Organic-Nitrogen-Fertilizer-100539577/304913627"
+      },
+      "larger_size": {
+        "weight": "32 lbs",
+        "price": 25,
+        "url": "https://www.walmart.com/ip/Milorganite-Slow-Release-Nitrogen-Lawn-Fertilizer-32-lb/171086103"
+      },
+      "npk": "6-4-0",
+      "use_case": "Lawns, vegetables, shrubs",
+      "application": "Spread 1 lb per 250 sq ft every 8–10 weeks. For young plants, use 1/2 lb to avoid nitrogen burn.",
+      "notes": "OMRI-listed, biosolids-based. Slow-release minimizes leaching"
+    },
+    {
+      "name": "GS Plant Foods Liquid Love All Purpose Natural Plant Food",
+      "small_size": {
+        "weight": "32 oz",
+        "price": 15.95,
+        "url": "https://www.amazon.com/Organic-Liquid-Kelp-Fertilizer-GS/dp/B00E4TDLT2"
+      },
+      "larger_size": {
+        "weight": "1 gallon",
+        "price": 19.95,
+        "url": "https://www.amazon.com/Organic-Liquid-Kelp-Fertilizer-GS/dp/B00E4TDLT2"
+      },
+      "npk": "2-2-2",
+      "use_case": "Foliar sprays, soil application",
+      "application": "Mix 1/2 oz per gallon water, apply weekly as foliar spray or soil drench. Safe for all plant ages.",
+      "notes": "OMRI-listed, sea kelp-based. Enhances soil microbial activity"
+    },
+    {
+      "name": "Miracle-Gro Performance Organics All Purpose Granules",
+      "small_size": {
+        "weight": "2.5 lbs",
+        "price": 16.99,
+        "url": "https://www.homedepot.com/p/Miracle-Gro-Performance-Organics-2-5-lbs-All-Purpose-Plant-Nutrition-Granules-300511/310965695"
+      },
+      "larger_size": {
+        "weight": "25 lbs",
+        "price": 35,
+        "url": "https://www.amazon.com/Miracle-Gro-Performance-Organics-Purpose-Granules/dp/B07MK5YJ3F"
+      },
+      "npk": "7-6-9",
+      "use_case": "Vegetables, flowers, shrubs",
+      "application": "Use 1 tbsp per plant every 2–4 weeks, or mix into soil at planting. Use 1/2 tbsp for young plants.",
+      "notes": "OMRI-listed, poultry manure-based. Avoid over-application in hot weather"
+    },
+    {
+      "name": "True Organic Lawn Food",
+      "small_size": {
+        "weight": "4 lbs",
+        "price": 18,
+        "url": "https://www.amazon.com/True-Organic-Lawn-Food-4lb/dp/B07P6ZJ6Y8"
+      },
+      "larger_size": {
+        "weight": "16 lbs",
+        "price": 32,
+        "url": "https://www.homedepot.com/p/True-Organic-16-lbs-Organic-Lawn-Food-100539578/304913628"
+      },
+      "npk": "10-1-1",
+      "use_case": "Lawns, vegetables",
+      "application": "Spread 1 lb per 100 sq ft every 4–6 weeks. For small gardens, use 1/2 lb to avoid excess nitrogen.",
+      "notes": "OMRI-listed, soybean meal-based. Supports soil health"
+    },
+    {
+      "name": "Espoma Bio-Tone Starter Plus",
+      "small_size": {
+        "weight": "4 lbs",
+        "price": 19.99,
+        "url": "https://www.walmart.com/ip/Espoma-Bio-tone-Starter-Plus-4-lb/171086108"
+      },
+      "larger_size": {
+        "weight": "25 lbs",
+        "price": 40,
+        "url": "https://www.homedepot.com/p/Espoma-25-lb-Organic-Bio-Tone-Starter-Plus-Plant-Food-BT25/202268615"
+      },
+      "npk": "4-3-3",
+      "use_case": "Transplants, new plantings",
+      "application": "Mix 1/4 cup per plant at planting, or sprinkle monthly for established plants. Use 1 tbsp for young transplants.",
+      "notes": "OMRI-listed, feather meal-based. Promotes root growth"
+    }
+  ],
+  "pesticides": {
+    "beekeeping": [
+      {
+        "name": "Neem Oil",
+        "description": "Disrupts pest feeding and growth (Varroa mites, aphids, beetles) with azadirachtin",
+        "application": "Mix 1 tbsp neem oil, 1 tsp castile soap per gallon water. Spray plants near hives or use in traps at dusk. Reapply weekly.",
+        "bee_safety": "Not safe for bees during foraging; apply in evening. Avoid hive interiors unless approved (e.g., Apiguard).",
+        "suppliers": [
+          "https://www.beeweaver.com",
+          "https://www.mannlakeltd.com"
+        ],
+        "southeast_texas_relevance": "Controls small hive beetles in humid Texas climate"
+      },
+      {
+        "name": "Baking Soda",
+        "description": "Fungicide and mild pesticide for powdery mildew and aphids on plants near hives",
+        "application": "Mix 1 tsp baking soda, 1 tsp vegetable oil, 1 tsp soap per gallon water. Spray weekly in cooler hours.",
+        "bee_safety": "Safe for bees if not sprayed on flowers. Avoid high concentrations.",
+        "suppliers": [
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Manages fungal issues in Texas’ humid gardens"
+      },
+      {
+        "name": "Insecticidal Soap",
+        "description": "Kills soft-bodied pests (aphids, mites) by dehydration, used on plants or in hive traps",
+        "application": "Mix 2 tbsp castile soap per gallon water. Spray pests directly, reapply every 5–7 days.",
+        "bee_safety": "Harmful on contact; apply in early morning or evening.",
+        "suppliers": [
+          "https://www.thebeesupply.com",
+          "https://www.arbico-organics.com"
+        ],
+        "southeast_texas_relevance": "Protects Texas wildflowers for bee forage"
+      },
+      {
+        "name": "Diatomaceous Earth (DE)",
+        "description": "Dehydrates ants and small hive beetles around hive stands",
+        "application": "Dust food-grade DE around hive bases or traps. Reapply after rain.",
+        "bee_safety": "Safe if not applied near hive entrances or flowers",
+        "suppliers": [
+          "https://www.magnoliabeeandsupply.com",
+          "https://www.planetnatural.com"
+        ],
+        "southeast_texas_relevance": "Controls ants in Texas’ warm climate"
+      },
+      {
+        "name": "Pyrethrin",
+        "description": "Fast-acting insecticide for wasps and beetles, degrades quickly",
+        "application": "Mix 20g pyrethrum powder per 10 liters water, spray at dusk. Follow label for commercial products.",
+        "bee_safety": "Highly toxic to bees on contact; apply late evening",
+        "suppliers": [
+          "https://www.groworganic.com",
+          "https://www.dadant.com"
+        ],
+        "southeast_texas_relevance": "Controls wasps near Texas hives"
+      },
+      {
+        "name": "Garlic Spray",
+        "description": "Repels aphids and beetles with sulfur compounds, used on plants near hives",
+        "application": "Blend 2 garlic bulbs, strain, mix with 1 liter water, 1 tsp soap, 100ml oil. Spray every 5–7 days.",
+        "bee_safety": "Safe if not sprayed on flowers; avoid hive areas",
+        "suppliers": [
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Protects Texas forage plants"
+      },
+      {
+        "name": "Bacillus thuringiensis (Bt)",
+        "description": "Kills caterpillar larvae, safe for bees, used on plants near hives",
+        "application": "Mix 1–2 tsp Bt concentrate per 20 liters water, spray foliage at dusk. Reapply every 7–10 days.",
+        "bee_safety": "Safe for bees, targets larvae only",
+        "suppliers": [
+          "https://www.arbico-organics.com",
+          "https://www.gardensalive.com"
+        ],
+        "southeast_texas_relevance": "Controls caterpillars on Texas crops"
+      },
+      {
+        "name": "Essential Oil Sprays (Peppermint, Thyme)",
+        "description": "Repels ants and wasps around hive exteriors with strong scents",
+        "application": "Mix 5–7 drops per quart water, spray hive bases weekly.",
+        "bee_safety": "Safe if not sprayed inside hives; avoid overuse",
+        "suppliers": [
+          "https://www.planetnatural.com"
+        ],
+        "southeast_texas_relevance": "Deters ants in humid Texas climate"
+      }
+    ],
+    "general_gardening": [
+      {
+        "name": "Neem Oil",
+        "description": "Controls aphids, spider mites, and beetles with azadirachtin",
+        "application": "Mix 1–2 tbsp neem oil, 1 tsp castile soap per gallon water. Spray plants every 7–14 days in evening.",
+        "bee_safety": "Not safe during foraging; apply at dusk",
+        "suppliers": [
+          "https://www.arbico-organics.com",
+          "https://www.groworganic.com"
+        ],
+        "southeast_texas_relevance": "Effective on Texas vegetables and ornamentals"
+      },
+      {
+        "name": "Baking Soda",
+        "description": "Controls powdery mildew and repels aphids with alkaline residues",
+        "application": "Mix 1–2 tsp baking soda, 1 tsp oil, 1 tsp soap per gallon water. Spray weekly, avoid midday.",
+        "bee_safety": "Safe if not on flowers; avoid overuse",
+        "suppliers": [
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Manages fungal issues in Texas gardens"
+      },
+      {
+        "name": "Insecticidal Soap",
+        "description": "Kills aphids, mealybugs, and spider mites by dehydration",
+        "application": "Mix 2–4 oz castile soap per gallon water, spray pests directly every 5–7 days.",
+        "bee_safety": "Harmful on contact; apply in evening",
+        "suppliers": [
+          "https://www.planetnatural.com",
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Ideal for Texas vegetable gardens"
+      },
+      {
+        "name": "Diatomaceous Earth (DE)",
+        "description": "Dehydrates slugs, ants, and cockroaches in garden beds",
+        "application": "Dust lightly around plants or beds, reapply after rain.",
+        "bee_safety": "Safe if not near flowers or hive entrances",
+        "suppliers": [
+          "https://www.groworganic.com",
+          "https://www.gardensalive.com"
+        ],
+        "southeast_texas_relevance": "Controls slugs in Texas’ moist soils"
+      },
+      {
+        "name": "Pyrethrin",
+        "description": "Kills caterpillars, beetles, and flies, degrades in sunlight",
+        "application": "Mix per label (e.g., 20g powder per 10 liters water), spray at dusk.",
+        "bee_safety": "Toxic to bees on contact; apply late evening",
+        "suppliers": [
+          "https://www.arbico-organics.com",
+          "https://www.planetnatural.com"
+        ],
+        "southeast_texas_relevance": "Controls caterpillars on Texas tomatoes"
+      },
+      {
+        "name": "Garlic and Chili Pepper Spray",
+        "description": "Repels aphids, spider mites, and leafhoppers with sulfur and capsaicin",
+        "application": "Blend 2 garlic cloves, 1–2 chili peppers, mix with 1 liter water, 1 tsp soap, 100ml oil. Spray every 5–7 days.",
+        "bee_safety": "Safe if not sprayed on flowers; avoid edible parts near harvest",
+        "suppliers": [
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Effective on Texas crops like okra"
+      },
+      {
+        "name": "Bacillus thuringiensis (Bt)",
+        "description": "Kills caterpillar larvae (e.g., tomato hornworms), safe for most beneficial insects",
+        "application": "Mix 1–2 tsp per gallon water, spray foliage at dusk every 7–14 days.",
+        "bee_safety": "Safe for bees, targets larvae",
+        "suppliers": [
+          "https://www.groworganic.com",
+          "https://www.arbico-organics.com"
+        ],
+        "southeast_texas_relevance": "Controls caterpillars on Texas collards"
+      },
+      {
+        "name": "Essential Oil Spray (Rosemary, Peppermint, Thyme)",
+        "description": "Repels ants, flies, and mosquitoes with aromatic compounds",
+        "application": "Mix 10–15 drops oil per quart water. Spray perimeters every 3–5 days.",
+        "bee_safety": "Safe if not on flowers; avoid overuse",
+        "suppliers": [
+          "https://www.planetnatural.com"
+        ],
+        "southeast_texas_relevance": "Deters mosquitoes in Texas summers"
+      },
+      {
+        "name": "Kaolin Clay",
+        "description": "Protective barrier deters fruit flies, beetles, and leafhoppers",
+        "application": "Mix per label (e.g., 1/4–1/2 cup per gallon water), spray to coat plants. Reapply after rain.",
+        "bee_safety": "Safe for bees; wash crops before eating",
+        "suppliers": [
+          "https://www.arbico-organics.com",
+          "https://www.groworganic.com"
+        ],
+        "southeast_texas_relevance": "Protects Texas fruit trees from leafminers"
+      },
+      {
+        "name": "Horticultural Oil",
+        "description": "Suffocates scale, mites, and aphids by blocking spiracles",
+        "application": "Mix 2–5 tbsp oil per gallon water, spray in cool weather every 7–14 days.",
+        "bee_safety": "Safe if applied when bees are not foraging",
+        "suppliers": [
+          "https://www.planetnatural.com",
+          "https://www.homedepot.com"
+        ],
+        "southeast_texas_relevance": "Controls scale on Texas citrus"
+      }
+    ]
+  },
+  "additional_notes": [
+    "Soil Testing: Conduct a soil test (available at garden centers or through extension services) to match fertilizers to nutrient needs",
+    "OMRI Certification: All products are OMRI-listed or certified for organic use",
+    "Bee Safety: Apply pesticides in evening to protect bees, especially in Southeast Texas’ pollinator-rich environment",
+    "Organic Practices: Use compost, compost teas, or Real Growers Recharge (https://www.amazon.com/Real-Growers-Recharge-Natural-Stimulant/dp/B00BSRB768) as primary foliar sprays or drenching soil to save costs and boost soil health"
+  ]
+}

@@ -1,0 +1,488 @@
+[
+  {
+    "name": "Almanac",
+    "url": "https://www.almanac.com",
+    "focus": "Planting Calendars, Pest Control, Beginner Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Creative Vegetable Gardener",
+    "url": "https://www.creativevegetablegardener.com",
+    "focus": "brouillage Gardening, Vegetable Crops",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Safer Brand",
+    "url": "https://www.saferbrand.com",
+    "focus": "Pest Control, Composting",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Kellogg Garden Organics",
+    "url": "https://kellogggarden.com",
+    "focus": "Soil Health, Crop Rotation, Fertilizers",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Epic Gardening",
+    "url": "https://www.epicgardening.com",
+    "focus": "Beginner Tips, Organic Techniques",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Mother Earth News",
+    "url": "https://www.motherearthnews.com",
+    "focus": "Sustainability, Pest Control",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Treehugger",
+    "url": "https://www.treehugger.com",
+    "focus": "Resource Directories, Sustainability",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Simplify, Live, Love",
+    "url": "https://simplifylivelove.com",
+    "focus": "Beginner Tips, Vegetable Gardening",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Planet Natural",
+    "url": "https://www.planetnatural.com",
+    "focus": "Companion Planting, Pest Control",
+    "southeast_texas_relevance": "Nationwide applicability, supplier"
+  },
+  {
+    "name": "Gardening Know How",
+    "url": "https://www.gardeningknowhow.com",
+    "focus": "General Gardening, Companion Planting",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Good Housekeeping",
+    "url": "https://www.goodhousekeeping.com",
+    "focus": "Beginner Tips, Composting",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Feedspot",
+    "url": "https://bloggers.feedspot.com",
+    "focus": "Resource Directories, Blog Reviews",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Better Homes & Gardens",
+    "url": "https://www.bhg.com",
+    "focus": "Soil Health, Organic Amendments",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Gardening Channel",
+    "url": "https://www.gardeningchannel.com",
+    "focus": "Resource Directories, Organic Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Big Blog of Gardening",
+    "url": "https://www.bigblogofgardening.com",
+    "focus": "Vegetable Gardening, Beginner Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Grow Organic",
+    "url": "https://www.groworganic.com",
+    "focus": "Soil Health, Fruit Trees",
+    "southeast_texas_relevance": "Nationwide applicability, supplier"
+  },
+  {
+    "name": "Garden Design",
+    "url": "https://www.gardendesign.com",
+    "focus": "Beginner Tips, Garden Planning",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Greenhouse Catalog",
+    "url": "https://www.greenhousecatalog.com",
+    "focus": "Composting, Weed Control",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Bonnie Plants",
+    "url": "https://bonnieplants.com",
+    "focus": "Sustainability, Companion Planting",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Gardens Illustrated",
+    "url": "https://www.gardensillustrated.com",
+    "focus": "Biodiversity, Soil Health",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "The Press Democrat",
+    "url": "https://www.pressdemocrat.com",
+    "focus": "Organic Principles, Sustainability",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Lost Coast Plant Therapy",
+    "url": "https://www.lostcoastplanttherapy.com",
+    "focus": "Pest Control, Composting",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "The Home Depot Eco Actions",
+    "url": "https://ecoactions.homedepot.com",
+    "focus": "Composting, Plant Selection",
+    "southeast_texas_relevance": "Nationwide applicability, supplier"
+  },
+  {
+    "name": "Nicky Kyle Gardening",
+    "url": "https://nickykylegardening.com",
+    "focus": "Biodiversity, Organic Practices",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Gardener’s Path",
+    "url": "https://gardenerspath.com",
+    "focus": "Beginner Tips, Natural Fertilizers",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Growing in the Garden",
+    "url": "https://growinginthegarden.com",
+    "focus": "Crop Rotation, Pest Management",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "PermaResilience",
+    "url": "https://permaresilience.com",
+    "focus": "Permaculture, Sustainability",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Thompson & Morgan Blog",
+    "url": "https://blog.thompson-morgan.com",
+    "focus": "No-Dig Gardening, Organic Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "One Degree Organics",
+    "url": "https://onedegreeorganics.com",
+    "focus": "Soil Health, Edible Landscaping",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Earth’s Ally",
+    "url": "https://earthsally.com",
+    "focus": "Beginner Tips, Pest Control",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Mann Lake",
+    "url": "https://www.mannlakeltd.com",
+    "focus": "Beekeeping Supplies, Beginner Kits",
+    "southeast_texas_relevance": "Ships nationwide, accessible for Texas"
+  },
+  {
+    "name": "Dadant & Sons",
+    "url": "https://www.dadant.com",
+    "focus": "Beekeeping Supplies, Equipment",
+    "southeast_texas_relevance": "Nationwide shipping, suitable for Texas"
+  },
+  {
+    "name": "Flow Hive",
+    "url": "https://www.honeyflow.com",
+    "focus": "Beekeeping Systems, Accessories",
+    "southeast_texas_relevance": "Global shipping, ideal for Texas hobbyists"
+  },
+  {
+    "name": "Bee Weaver Apiaries",
+    "url": "https://www.beeweaver.com",
+    "focus": "Live Bees, Beekeeping Supplies",
+    "southeast_texas_relevance": "Texas-based, ideal for local pickup or shipping"
+  },
+  {
+    "name": "The Bee Supply",
+    "url": "https://www.thebeesupply.com",
+    "focus": "Beekeeping Supplies, Live Bees",
+    "southeast_texas_relevance": "Texas-based, free delivery to local clubs"
+  },
+  {
+    "name": "Lappe’s Bee Supply",
+    "url": "https://www.lappesbeesupply.com",
+    "focus": "Beekeeping Supplies, Live Bees",
+    "southeast_texas_relevance": "Ships to Texas, supports Texas beekeepers"
+  },
+  {
+    "name": "Mountain Sweet Honey",
+    "url": "https://www.mountainsweethoney.com",
+    "focus": "Beekeeping Supplies, Live Bees",
+    "southeast_texas_relevance": "Ships to Texas, Houston/Dallas pages"
+  },
+  {
+    "name": "Beekeepers.com",
+    "url": "https://www.beekeepers.com",
+    "focus": "Beekeeping Supplies, Live Bees",
+    "southeast_texas_relevance": "Nationwide shipping, Texas-friendly"
+  },
+  {
+    "name": "Ten Box Bee Supply",
+    "url": "https://www.tenboxbeesupply.com",
+    "focus": "Beekeeping Supplies, Live Bees",
+    "southeast_texas_relevance": "Texas-based, ideal for Southeast Texas"
+  },
+  {
+    "name": "The Bee Place",
+    "url": "https://www.thebeeplace.com",
+    "focus": "Beekeeping Supplies, Pollination Services",
+    "southeast_texas_relevance": "Serves South/Central Texas, accessible for Southeast Texas"
+  },
+  {
+    "name": "Texas Honey Bee Farm",
+    "url": "https://www.texashoneybeefarm.com",
+    "focus": "Beekeeping Supplies, Education",
+    "southeast_texas_relevance": "Central Texas-based, accessible via shipping"
+  },
+  {
+    "name": "R. Weaver Apiaries",
+    "url": "https://www.rweaver.com",
+    "focus": "Live Bees, Beekeeping Supplies",
+    "southeast_texas_relevance": "Texas-based, local pickup options"
+  },
+  {
+    "name": "Magnolia Bee & Supply",
+    "url": "https://www.magnoliabeeandsupply.com",
+    "focus": "Beekeeping Supplies, Local Resources",
+    "southeast_texas_relevance": "Texas-based, supports local beekeepers"
+  },
+  {
+    "name": "Foxhound Bee Company",
+    "url": "https://www.foxhoundbeecompany.com",
+    "focus": "Beekeeping Supplies, Customer Support",
+    "southeast_texas_relevance": "Ships nationwide, Texas-relevant"
+  },
+  {
+    "name": "PerfectBee",
+    "url": "https://www.perfectbee.com",
+    "focus": "Beekeeping Supplies, Education",
+    "southeast_texas_relevance": "Nationwide shipping, Texas hobbyists"
+  },
+  {
+    "name": "Texas Beekeepers Association",
+    "url": "https://texasbeekeepers.org",
+    "focus": "Education, Community Support",
+    "southeast_texas_relevance": "Texas-focused, highly relevant"
+  },
+  {
+    "name": "Texas Apiary Inspection Service",
+    "url": "https://txbeeinspection.tamu.edu",
+    "focus": "Regulation, Pest Management",
+    "southeast_texas_relevance": "Texas-specific, critical for compliance"
+  },
+  {
+    "name": "Texas A&M Honey Bee Lab",
+    "url": "https://honeybeelab.tamu.edu",
+    "focus": "Research, Education",
+    "southeast_texas_relevance": "Texas-based, supports local beekeepers"
+  },
+  {
+    "name": "East Texas Beekeepers Association",
+    "url": "https://www.etba.info",
+    "focus": "Education, Community Support",
+    "southeast_texas_relevance": "East Texas-focused, ideal for Southeast Texas"
+  },
+  {
+    "name": "Pineywoods Beekeepers Association",
+    "url": "https://www.pineywoodsbeekeepers.org",
+    "focus": "Education, Community Support",
+    "southeast_texas_relevance": "Southeast Texas-based, highly relevant"
+  },
+  {
+    "name": "Bee Thinking",
+    "url": "https://www.beethinking.com",
+    "focus": "Sustainable Hives, Protective Gear",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Round Rock Honey Company",
+    "url": "https://www.roundrockhoney.com",
+    "focus": "Beekeeping Supplies, Local Delivery",
+    "southeast_texas_relevance": "Central Texas-based, accessible via shipping"
+  },
+  {
+    "name": "Winding Creek Bee Supply",
+    "url": "https://www.wcapiary.com",
+    "focus": "Bees, Hives, Tools",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Elzner Farms",
+    "url": "https://www.elznerfarms.com",
+    "focus": "Nucleus Colonies, Honey Products",
+    "southeast_texas_relevance": "East Texas-based, relevant for Southeast Texas"
+  },
+  {
+    "name": "BeekeepingUSA.com",
+    "url": "https://www.beekeepingusa.com",
+    "focus": "Italian Bees, Hives, Nucs",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Bee Culture",
+    "url": "https://www.beeculture.com",
+    "focus": "Educational Articles",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "American Beekeeping Federation",
+    "url": "https://www.abfnet.org",
+    "focus": "Advocacy, Education",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Honey Bee Health Coalition",
+    "url": "https://honeybeehealthcoalition.org",
+    "focus": "Pest and Disease Management",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "eXtension Bee Health",
+    "url": "https://bee-health.extension.org",
+    "focus": "University-backed Research",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "The Apiarist",
+    "url": "https://www.theapiarist.org",
+    "focus": "Science-driven Beekeeping Blog",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Scientific Beekeeping",
+    "url": "https://scientificbeekeeping.com",
+    "focus": "Research, Practical Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "University of Florida Honey Bee Lab",
+    "url": "https://entnemdept.ufl.edu/honey-bee",
+    "focus": "Research, Videos",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "University of Minnesota Bee Lab",
+    "url": "https://beelab.umn.edu",
+    "focus": "Educational Resources",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Project Apis m.",
+    "url": "https://www.projectapism.org",
+    "focus": "Research Funding, Resources",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Beesource",
+    "url": "https://www.beesource.com",
+    "focus": "Community Forum",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Bee Informed Partnership",
+    "url": "https://beeinformed.org",
+    "focus": "Data, Research on Bee Health",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Backyard Beekeepers Association",
+    "url": "https://www.backyardbeekeepers.com",
+    "focus": "Educational Webinars",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "British Beekeepers Association",
+    "url": "https://www.bbka.org.uk",
+    "focus": "Guides, Advocacy",
+    "southeast_texas_relevance": "International applicability"
+  },
+  {
+    "name": "The Beekeeping Bible",
+    "url": "https://www.thebeekeepingbible.com",
+    "focus": "Informational Resource",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Michigan State University Pollinator Initiative",
+    "url": "https://www.canr.msu.edu/pollinators",
+    "focus": "Pollinator Research",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Cornell University Dyce Lab",
+    "url": "https://bees.cals.cornell.edu",
+    "focus": "Research, Education",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Ohio State University Bee Lab",
+    "url": "https://u.osu.edu/beelab",
+    "focus": "Webinars, Research",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Bee Culture’s Backyard Beekeeping",
+    "url": "https://www.beeculture.com/backyard-beekeeping",
+    "focus": "Beginner Guides",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "The Beekeepers Quarterly",
+    "url": "https://www.beekeepersquarterly.com",
+    "focus": "Publication, Insights",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "American Honey Producers Association",
+    "url": "https://www.ahpanet.com",
+    "focus": "Advocacy",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Pollinator Partnership",
+    "url": "https://www.pollinator.org",
+    "focus": "Conservation Resources",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Beekeeping Naturally",
+    "url": "https://www.beekeepingnaturally.com",
+    "focus": "Natural Beekeeping Tips",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Sustainable Beekeeping Network",
+    "url": "https://www.sustainablebeekeeping.org",
+    "focus": "Community Resources",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "Bee Craft",
+    "url": "https://www.bee-craft.com",
+    "focus": "Educational Content",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "The Barefoot Beekeeper",
+    "url": "https://www.biobees.com",
+    "focus": "Natural Beekeeping Guides",
+    "southeast_texas_relevance": "Nationwide applicability"
+  },
+  {
+    "name": "University of California Davis Honey and Pollination Center",
+    "url": "https://honey.ucdavis.edu",
+    "focus": "Research, Courses",
+    "southeast_texas_relevance": "Nationwide applicability"
+  }
+]
